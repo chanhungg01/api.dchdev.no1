@@ -1,1 +1,1 @@
-\e[1m\e[32mTest\e[0m\n
+echo "\e[1m\e[32mok\e[0m\n";

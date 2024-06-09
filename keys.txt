@@ -1,4 +1,4 @@
-admindchdev|ADMIN|3000-01-01 00:00:00|dchdev|Live
+admindchdev|ADMIN|3000-01-01 00:00:00|dchdev|Banned
 I40FUNKD8X|Chấn Hưng|2024-08-10 22:50:00|dch|Banned
 M6L2S9Q6KO|Chan Hung|2024-08-08 10:15:00|hung|Live
 WARO2BGF6Y|dchdev|2024-06-09 04:45:00|0399438620|Live

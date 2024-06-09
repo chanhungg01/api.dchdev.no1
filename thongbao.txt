@@ -1,1 +1,1 @@
-echo "\e[1m\e[32m[TOOL BY DCHDEV]\e[0m\n";
+\e[1m\e[32m[TOOL BY DCHDEV]\e[0m
